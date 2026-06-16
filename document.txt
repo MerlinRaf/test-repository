@@ -1,1 +1,3 @@
-Hola mundo, este es mi primer cambio 
+Nombre: MerlinRaf
+Curso: Programación en la Nube
+Práctica de GitHub
